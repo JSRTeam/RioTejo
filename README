@@ -2,4 +2,8 @@ Hey there. Made a change. And another.
 
 And another change. Whoo
 
+<<<<<<< HEAD
 It never (from the master) ends.
+=======
+It never (from the fork) ends.
+>>>>>>> dfca3221df85d5456f1bc3c9c2b441ed71f03a3c
