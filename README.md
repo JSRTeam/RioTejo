@@ -4,4 +4,4 @@ And another change. Whoo
 
 It never (from the fork) ends.
 
-![bigpic](https://github.com/hrichardlee/RioTejo/blob/master/toledo.png)
+![bigpic](https://github.com/hrichardlee/RioTejo/raw/master/toledo.png)
