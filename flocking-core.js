@@ -15,7 +15,7 @@ var flock = flock || {};
 (function () {
     "use strict";
     
-    flock.OUT_UGEN_ID = "flocking-out";
+    flock.OUT_UGEN_ID = "flocking-out"
     flock.ALL_UGENS_ID = "flocking-all";
     flock.TWOPI = 2.0 * Math.PI;
     
