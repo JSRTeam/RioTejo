@@ -54,6 +54,7 @@ var flock = flock || {};
         return buf;
     };
      
+     // sdfjkljsdlkf
     flock.minBufferSize = function (latency, audioSettings) {
         var size = (audioSettings.rates.audio * audioSettings.chans) / (1000 / latency);
         return Math.round(size);
